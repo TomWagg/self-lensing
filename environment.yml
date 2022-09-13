@@ -8,5 +8,10 @@ dependencies:
   - numpy >= 1.16
   - astropy >= 4.0
   - matplotlib >= 3.3.2
+  - jupyterlab
+  - jupyterlab_widgets
   - jupyter
   - ipython
+  - ipywidgets
+  - pip:
+    - lightkurve
